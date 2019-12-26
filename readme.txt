@@ -6,3 +6,4 @@ git tracks changes
 
 add hello world
 hello2
+hello3
